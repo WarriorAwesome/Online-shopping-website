@@ -1,0 +1,36 @@
+
+h6
+{
+
+}
+
+.imgbg
+{
+padding:5px;
+background-color:#e8e9e7;
+border:2px solid #c9c9c8;
+text-align:center;
+
+}
+.f
+{
+font-family:Gabriola;
+}
+.button2 {
+  background-color: blue; /* Green */
+  border: none;
+  width: 50px;
+  length: 100px;
+  text-align: center;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.tabble {
+  background-color: black;
+  border-collapse: separate;
+  border-spacing: 10px;
+  *border-collapse: expression('separate', cellSpacing = '10px');
+}
